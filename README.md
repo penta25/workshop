@@ -4,7 +4,7 @@ https://launch.oracle.com/?cloudnative
 
 
 시간 	          내용
-13:00 ~ 13:10 	Cloud Setup 확인 
+13:00 ~ 13:10 	Cloud Setup 확인 <br>
 13:15 ~ 13:30 	실습 개요 
 13:25 ~ 14:30 	Lab 100: Project Manager Persona 실습
 14:30 ~ 15:30 	Lab 200: Java Developer Persona 실습
